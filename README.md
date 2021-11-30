@@ -2,6 +2,7 @@
 * Tutorial Location: https://drive.google.com/drive/folders/1OLWh2fdWEBFQBn_Cz013HiyeKg9bGgFP?usp=sharing
 
 *CAN IGNORE THE SECTION ON USING AWS' CLOUD IDE*
+
 *PAGE 18 IS WHERE THE GOOD STUFF STARTS*
 
 * This is a preconfigured environment to make getting started with Hartl easier.
@@ -15,7 +16,7 @@
   * Fork the Ruby On Rails Tutorial. - https://github.com/DocFox-Inc/RubyOnRailsTutorial
   * Clone onto your machine.
   * Open the project with Visual Studio Code.
-  * Run the dev container. Click on *Reopen in Cotnainer*.
+  * Run the dev container. Click on *Reopen in Container*.
     * ![Open In Container](docs/images/open_in_container.png)
   * Can also open the dev container in by pressing `command + shift + p` and selecting *Reopen in Container*.
     * ![Reopen in Container](docs/images/reopen_in_container.png)
@@ -25,7 +26,7 @@
   ## Creating your first rails app
   * Create a new rails app. `rails new hello_app`
   * *CD* into *hello_app*
-  * Run *rails server*
+  * Run `rails server`
   * Will be able to see the page at http://localhost:3000/ - Ports are automatically forwarded to local environment.
 
 *Ready for Ruby on Rails Tutorial.*
