@@ -1,5 +1,5 @@
-# Ruby on Rails Hartl Tutorial
-* Tutorial Location: https://drive.google.com/drive/folders/1OLWh2fdWEBFQBn_Cz013HiyeKg9bGgFP?usp=sharing
+# Ruby on Rails Hartl Tutorial configured for Visual Studio Code and a dev container
+* [Ruby on Rails Tutorial Book](https://www.railstutorial.org/book)
 
 *CAN IGNORE THE SECTION ON USING AWS' CLOUD IDE*
 
