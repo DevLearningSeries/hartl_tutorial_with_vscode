@@ -9,5 +9,3 @@ vscode:
     - rebornix.ruby
     - mtxr.sqltools
     - mtxr.sqltools-driver-pg
-    - misogi.ruby-rubocop
-    - kosai106.ruby-syntax-replacer

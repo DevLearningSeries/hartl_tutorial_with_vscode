@@ -9,7 +9,7 @@
 * Use **[gitpod](https://www.gitpod.io/)** to get up and running immediately or locally using a devcontainer
 * Works with Visual Studio Code, Docker and vscode dev containers. If using locally, will also need a git client.
 ## Getting started with Gitpod
-* 
+* [Open With Gitpod](https://gitpod.io/#https://github.com/DevLearningSeries/hartl_tutorial_with_vscode)
 ## Getting started with Vscode devcontainers
 * Need Docker installed locally
 ### Getting started
