@@ -1,0 +1,13 @@
+image:
+  file: .gitpod.Dockerfile
+ports:
+- port: 3000
+  onOpen: open-preview
+- port: 5432
+vscode:
+  extensions:
+    - rebornix.ruby
+    - mtxr.sqltools
+    - mtxr.sqltools-driver-pg
+    - misogi.ruby-rubocop
+    - kosai106.ruby-syntax-replacer

@@ -13,7 +13,7 @@
   * Works best with Visual Studio Code
     * Install Visual Studio Code. https://code.visualstudio.com
   * Install Docker Desktop for Mac OS. https://www.docker.com/products/docker-desktop 
-  * Fork the Ruby On Rails Tutorial. - https://github.com/DocFox-Inc/RubyOnRailsTutorial
+  * Fork the Ruby On Rails Tutorial. - https://github.com/DevLearningSeries/hartl_tutorial_with_vscode
   * Clone onto your machine.
   * Open the project with Visual Studio Code.
   * Run the dev container. Click on *Reopen in Container*.
