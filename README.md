@@ -27,7 +27,6 @@
 * Terminal prompt will show when ready.
 * Check rails version `rails -v`
 
-
 ## Creating your first rails app
 * Create a new rails app. `rails new hello_app`
 * *CD* into *hello_app*
@@ -36,7 +35,7 @@
 
 *Ready for Ruby on Rails Tutorial.*
 
-## Configuration
+## Configuration for devcontainer
 * Rails
 * Postgres
 * Nodejs/yarn
