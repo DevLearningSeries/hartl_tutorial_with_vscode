@@ -6,33 +6,38 @@
 *PAGE 18 IS WHERE THE GOOD STUFF STARTS*
 
 * This is a preconfigured environment to make getting started with Hartl easier.
-* Uses a preconfigured dev container from Github (see `.devcontainer`)
-* Works with Visual Studio Code, Docker and vscode dev containers.
+* Use **[gitpod](https://www.gitpod.io/)** to get up and running immediately or locally using a devcontainer
+* Works with Visual Studio Code, Docker and vscode dev containers. If using locally, will also need a git client.
+## Getting started with Gitpod
+* 
+## Getting started with Vscode devcontainers
+* Need Docker installed locally
+### Getting started
+* Works best with Visual Studio Code
+  * Install Visual Studio Code. https://code.visualstudio.com
+* Install Docker Desktop for Mac OS. https://www.docker.com/products/docker-desktop 
+* Fork the Ruby On Rails Tutorial. - https://github.com/DevLearningSeries/hartl_tutorial_with_vscode
+* Clone onto your machine.
+* Open the project with Visual Studio Code.
+* Run the dev container. Click on *Reopen in Container*.
+  * ![Open In Container](docs/images/open_in_container.png)
+* Can also open the dev container in by pressing `command + shift + p` and selecting *Reopen in Container*.
+  * ![Reopen in Container](docs/images/reopen_in_container.png)
+* Wait for container to build.
+* Terminal prompt will show when ready.
+* Check rails version `rails -v`
 
-  ## Getting started
-  * Works best with Visual Studio Code
-    * Install Visual Studio Code. https://code.visualstudio.com
-  * Install Docker Desktop for Mac OS. https://www.docker.com/products/docker-desktop 
-  * Fork the Ruby On Rails Tutorial. - https://github.com/DevLearningSeries/hartl_tutorial_with_vscode
-  * Clone onto your machine.
-  * Open the project with Visual Studio Code.
-  * Run the dev container. Click on *Reopen in Container*.
-    * ![Open In Container](docs/images/open_in_container.png)
-  * Can also open the dev container in by pressing `command + shift + p` and selecting *Reopen in Container*.
-    * ![Reopen in Container](docs/images/reopen_in_container.png)
-  * Wait for container to build.
-  * Terminal prompt will show when ready.
-  * Check rails version `rails -v`
-  ## Creating your first rails app
-  * Create a new rails app. `rails new hello_app`
-  * *CD* into *hello_app*
-  * Run `rails server`
-  * Will be able to see the page at http://localhost:3000/ - Ports are automatically forwarded to local environment.
+
+## Creating your first rails app
+* Create a new rails app. `rails new hello_app`
+* *CD* into *hello_app*
+* Run `rails server`
+* Will be able to see the page at http://localhost:3000/ - Ports are automatically forwarded to local environment.
 
 *Ready for Ruby on Rails Tutorial.*
 
 ## Configuration
-* Rails 6
+* Rails
 * Postgres
 * Nodejs/yarn
 * Heroku CLI
@@ -40,7 +45,6 @@
 * Developer gems for Ruby installed
   * RuboCop
   * Solargraph
-  * Ruby-debug-ide
 * Visual Studio Code Extensions
   * Name: Auto Add Brackets in String Interpolation
   * Name: Code Spell Checker
